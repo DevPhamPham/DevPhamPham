@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/phamkhoa1303)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/DevPhamPham)**
 
 - 📫 How to reach me **pham.duykhoa1303@gmail.com**
 
@@ -44,16 +44,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/phamkhoa1303/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=phamkhoa1303&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/DevPhamPham/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoa" src="https://github-readme-streak-stats.herokuapp.com/?user=DevPhamPham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/phamkhoa1303/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phamkhoa1303&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/phamkhoa1303/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamkhoa1303&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/DevPhamPham/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevPhamPham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DevPhamPham/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPhamPham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/phamkhoa1303/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=phamkhoa1303&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DevPhamPham/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DevPhamPham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -78,6 +78,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=phamkhoa1303">
+    <img src="https://komarev.com/ghpvc/?username=DevPhamPham">
 </a>
-<a href="https://github.com/phamkhoa1303?tab=followers"><img src="https://img.shields.io/github/followers/phamkhoa1303?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/DevPhamPham?tab=followers"><img src="https://img.shields.io/github/followers/DevPhamPham?label=Followers&style=social" alt="GitHub Badge"></a>
