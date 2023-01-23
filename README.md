@@ -69,8 +69,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.facebook.com/Phamduykhoa1303/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href = "https://www.instagram.com/Khoa_pham_pham/?fbclid=IwAR0TCZfNSm0IWN2yVlndLzhXGRssu7QOnSyR0j01u-9qDoVvqHGht7pnkSo"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<div><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/></div>
+<div><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></div>
 <a href = "https://www.youtube.com/channel/UCATyHQg-QELlS5TvRdhn0vQ"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/office/40/000000/instagram-new.png"/></a> -->
 
