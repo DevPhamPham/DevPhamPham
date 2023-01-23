@@ -52,8 +52,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevPhamPham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPhamPham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Khoa's stats" src="https://github-readme-stats.vercel.app/api?username=DevPhamPham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Khoa's language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPhamPham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -69,8 +69,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.facebook.com/Phamduykhoa1303/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href = "https://www.instagram.com/Khoa_pham_pham/?fbclid=IwAR0TCZfNSm0IWN2yVlndLzhXGRssu7QOnSyR0j01u-9qDoVvqHGht7pnkSo"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<div><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/></div>
+<div><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></div>
 <a href = "https://www.youtube.com/channel/UCATyHQg-QELlS5TvRdhn0vQ"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/office/40/000000/instagram-new.png"/></a> -->
 
