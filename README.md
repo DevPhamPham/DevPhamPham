@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/DevPhamPham)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://khoa-portfolio-phi.vercel.app/)**
 
-- 📫 How to reach me **pham.duykhoa1303@gmail.com**
+- 📫 How to reach me **devphamwork@gmail.com**
 
 - ⚡ Fun fact **I play games and play football very often.**
 
@@ -71,9 +71,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://www.facebook.com/Phamduykhoa1303/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://www.facebook.com/phamduykhoa2003/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://www.instagram.com/devphampham/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href = "https://www.youtube.com/channel/UCATyHQg-QELlS5TvRdhn0vQ"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href = "https://www.youtube.com/@RUSTECHJSC"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/office/40/000000/instagram-new.png"/></a> -->
 
 </p>
