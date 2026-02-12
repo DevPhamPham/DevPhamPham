@@ -61,7 +61,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/DevPhamPham/github-readme-activity-graph"><img alt="Khoa's graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DevPhamPham" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Khoa's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DevPhamPham&theme=react&bg_color=0D1117&hide_border=true" />
+</a>
 
 <br/>
 <br/>
